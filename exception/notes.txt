@@ -1,0 +1,24 @@
+Difference b/w errors and exception :
+Errors :
+-are the mistake done by the programmer while the creation of the program.
+
+-Error will not let the program to execute as it occurs during compilation phase.
+
+-Errors cannot be handeled using builtin machanisms
+
+-------------------------------------------------------------------------------------------------
+Exception:
+-exceptions are mistakees done by the endusers while entering the input during execution.
+
+-Exceptions are only occurs only after execution.
+
+-Exceptions can be easily handeled using Exception handling machanisms.
+
+-here we use TRY Block:- it is known as the Observation Block.
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+Ducking of Exception using throws Declaration :-
+
+------------------
+Rethrowing of Exception using Throw Keyword

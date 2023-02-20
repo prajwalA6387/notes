@@ -1,0 +1,7 @@
+Abstraction :
+hiding the implimentation.
+
+refers to the process of hiding the implimentations in the parent class and enforcing the child class to provide the implimentations
+
+if a class contation 1 abstract method then the entair class is made to be an abstract class.
+

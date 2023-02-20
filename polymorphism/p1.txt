@@ -1,0 +1,3 @@
+Polymorphism :-
+
+1:to many relations.

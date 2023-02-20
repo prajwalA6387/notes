@@ -1,0 +1,16 @@
+we have 4 different types of loop
+for loop
+While loop
+do while loop
+
+
+
+Syntax -->for loop
+for(initialization, condition, incrementer/decrementation)
+example : for(int i=0;i<n;i++){}
+
+while loop Syntax
+while(condition)
+example : While(a==1){}
+
+

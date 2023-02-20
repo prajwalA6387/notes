@@ -1,0 +1,14 @@
+Encapsulation :-
+
+it refers to the process of providing security for the most importent component of the object.
+
+Shadowing problem refers to the sinario where compiler is under confusion in identifying the local and the instance variables.
+
+in order to overcome the shadowing problem we make use of THIS keyword .
+
+if we are encapsulating a class then we must follow to importent principles of encapsulation :
+->using private members 
+->using Setters and getters for data related operations
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+

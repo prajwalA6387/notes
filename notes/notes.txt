@@ -1,0 +1,6 @@
+Constructors :
+these are special type of methods which as the name of its own class. . .
+its doesent use to as any return type(parameters).
+thse are autometically import whenever the object is initialized.
+
+Packege

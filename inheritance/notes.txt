@@ -1,0 +1,26 @@
+inheritence
+
+it refers to hyrachy of the classes.
+
+it represent parent. . .child releationship.
+
+inheritence is used to promote reusability of the code.
+
+sice its provide reusability of code the entire coding time will reduse.
+
+since the coding time is redusing its brings profit to organizations.
+
+there are 3 importent methods catogories in inheritance :-
+->inherited Methods.
+->overridden methods.
+->spelized methods.
+
+inherited methods :-
+    its such a type of methods where the behaviours are inherited from parent and used as it is in the child.
+   
+over ridden methods:-
+      these are such a type of methods which are iherited from the parent and modified according to the need in child.
+
+Spelized Methods:-
+      These are such a type of methods which are not inherited from the parent but uniquely present only whithin the
+      child.
